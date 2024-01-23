@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "Neue Bold";
+    src: url(/fonts/TT\ Firs\ Neue\ Trial\ Bold.ttf);
+}
+
+@font-face {
+    font-family: "Neue Thin";
+    src: url(/fonts/TT\ Firs\ Neue\ Trial\ Thin.ttf);
+}
+
+@font-face {
+    font-family: "Neue Regular";
+    src: url(/fonts/TT\ Firs\ Neue\ Trial\ Regular.ttf);
+}
+
+.neue-outline{
+    font-family:"Neue Outline" ;
+}
+
+.neue-bold{
+    font-family:"Neue Bold" ;
+}
+
+.neue-thin{
+    font-family:"Neue Thin" ;
+}
+
+.neue-regular{
+    font-family:"Neue Regular" ;
+}
+
+.font-18px{
+    font-size: 18px;
+}
+
+.font-24px{
+    font-size: 24px;
+}
+
+.font-36px{
+    font-size: 36px;
+}
+
+.font-48px{
+    font-size: 48px;
+}
+
+.font-64px{
+    font-size: 64px;
+}
+
+.font-96px{
+    font-size: 96px;
+}
+
+.font-274px{
+    font-size: 274px;
+}
+
+.weight-100{
+    font-weight: 100;
+}
+
+.weight-400{
+    font-weight: 400;
+}
+
+.weight-700{
+    font-weight: 700;
+}
